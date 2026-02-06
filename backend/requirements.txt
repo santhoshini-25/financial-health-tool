@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 pandas
-openai
 sqlalchemy
 psycopg2-binary
 cryptography
